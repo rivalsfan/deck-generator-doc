@@ -6,6 +6,83 @@
 
 [Default Image][img-url]
 
+### List of all unit names (in alphabetical order)
+
+```
+A.P.C.
+Disruptor
+Drone Swarm
+Grenadier
+Hammerhead
+Col. Jackson
+Juggernaut
+Jump Jet Troopers
+Kodiak
+Dr. Liang
+Mammoth Tank
+MG Squad
+Missile Squad
+Cdr. McNeil
+M.L.R.S.
+Mohawk Gunship
+M.S.V.
+Orca
+Orca Bomber
+Pitbull
+Predator Tank
+Razorback
+Rhino
+Riflemen
+Sandstorm
+Shatterer
+Shockwave Troopers
+Slingshot
+Sniper Team
+Gen. Solomon
+Lt. Strongarm
+Talon
+Titan
+War Dogs
+Wolverine
+Zone Trooper
+Artillery
+Attack Bikes
+Avatar
+Banshee
+Basilisk
+Buggy
+Catalyst Gunship
+Centurion
+Chemical Warriors
+Chem Buggy
+Confessor
+Cyberwheel
+Cyborg
+Fanatic
+Flame Tank
+Flame Troopers
+Giga-Cannon
+Inferno
+Jade
+Kane
+Laser Drone
+Laser Squad
+Militant
+Mutant Marauder
+Oxanna
+Phantom
+Rockworm
+Scarabs
+Scavenger
+Scorpion Tank
+Seth
+Shade
+Stealth Tank
+Tick Tank
+Venom
+Widowmaker
+```
+
 ## Data structure definition
 ```typescript
 interface Deck {
